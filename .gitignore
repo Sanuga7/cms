@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+.next/
+out/
+build/
+
+# Environment Variables (IMPORTANT!)
+.env
+.env.local
+
+# Database
+/prisma/migrations/
